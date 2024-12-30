@@ -1,0 +1,54 @@
+{
+  "cryptocurrencies": [
+    {
+      "id": "bnb",
+      "name": "BNB",
+      "fullName": "BNB Smart Chain",
+      "icon": "https://cryptologos.cc/logos/bnb-bnb-logo.png",
+      "price": 494.60,
+      "change": -2.15,
+      "amount": 0,
+      "value": 0.00
+    },
+    {
+      "id": "btc",
+      "name": "BTC",
+      "fullName": "Bitcoin",
+      "icon": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+      "price": 91911.45,
+      "change": -2.64,
+      "amount": 0,
+      "value": 0.00
+    },
+    {
+      "id": "eth",
+      "name": "ETH",
+      "fullName": "Ethereum",
+      "icon": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
+      "price": 3318.18,
+      "change": -1.61,
+      "amount": 0,
+      "value": 0.00
+    },
+    {
+      "id": "pol",
+      "name": "POL",
+      "fullName": "Polygon",
+      "icon": "https://cryptologos.cc/logos/polygon-matic-logo.png",
+      "price": 0.45,
+      "change": -5.12,
+      "amount": 0,
+      "value": 0.00
+    },
+    {
+      "id": "twt",
+      "name": "TWT",
+      "fullName": "Trust Wallet",
+      "icon": "https://cryptologos.cc/logos/trust-wallet-token-twt-logo.png",
+      "price": 1.13,
+      "change": -2.92,
+      "amount": 0,
+      "value": 0.00
+    }
+  ]
+} 

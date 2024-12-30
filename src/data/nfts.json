@@ -1,0 +1,20 @@
+{
+  "nfts": [
+    {
+      "id": "bayc",
+      "name": "Bored Ape Yacht Club",
+      "collection": "BAYC",
+      "image": "https://i.seadn.io/gae/Ju9CkWtV-1Okvf45wo8UctR-M9He2PjILP0oOvxE89AyiPPGtrR3gysu1Zgy0hjd2xKIgjJJtWIc0ybj4Vd7wv8t3pxDGHoJBzDB?auto=format&w=1000",
+      "floorPrice": 18.29,
+      "currency": "ETH"
+    },
+    {
+      "id": "punk",
+      "name": "CryptoPunks",
+      "collection": "PUNK",
+      "image": "https://i.seadn.io/gae/BdxvLseXcfl57BiuQcQYdJ64v-aI8din7WPk0Pgo3qQFhAUH-B6i-dCqqc_mCkRIzULmwzwecnohLhrcH8A9mpWIZqA7ygc52Sr81hE?auto=format&w=1000",
+      "floorPrice": 62.95,
+      "currency": "ETH"
+    }
+  ]
+} 
